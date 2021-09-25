@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Beverschreck
+- 👀 I’m interested in Minecraft, Java, C++, Webdevelopment
+- 🌱 I’m currently learning Java, C++
+- 📫 How to reach me via E-Mail beverschreck@gmail.com
